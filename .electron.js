@@ -1,6 +1,7 @@
 const pkg = require('./package.json');
 
 const config = {
+  name: pkg.name,
   productName: "Soundworks Test",
   // keep versionning synchronized with the current repo
   buildVersion: pkg.version,
