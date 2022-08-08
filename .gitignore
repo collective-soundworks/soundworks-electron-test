@@ -17,3 +17,8 @@ Thumbs.db
 
 # TLS certificates
 /**/*.pem
+
+# @soundworks/electron
+electron-build
+
+entitlements.mac.*

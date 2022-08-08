@@ -15,7 +15,7 @@ const config = {
   // list of files or directories that we don't want to include in the binary
   // by default the whole application except the .git directory is copied
   exclude: [
-    'resources',
+    // 'resources',
     // ...
   ]
 }
