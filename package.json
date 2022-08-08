@@ -5,7 +5,7 @@
   ],
   "description": "test application for the @soundworks/electron package",
   "license": "BSD-3-Clause",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "build": "npm run clean && soundworks-template-build -b && sass src/clients/styles:.build/public/css",
